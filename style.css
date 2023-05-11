@@ -957,7 +957,7 @@ a{
 }
 
 .console{
-    height: 60px;
+    height: 70px;
     padding-right: 10px;
     padding-left: 10px;
     padding-top: 0;
@@ -974,7 +974,7 @@ a{
 .navi-page1{
     width: 95%;
     position: relative;
-    top: 82%;
+    top: 75%;
     left: 10%;
     padding: 0;
     cursor: pointer;
@@ -990,7 +990,7 @@ a{
 .navi-page2{
     width: 95%;
     position: relative;
-    top: 82%;
+    top: 75%;
     right: 7%;
     padding: 0;
     cursor: pointer;
