@@ -1344,7 +1344,7 @@ a{
 .link-a{
     text-decoration: none;
     color: white;
-    height: 100%;
+    height: 255px;
 }
 
 .link-pic:hover{
